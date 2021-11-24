@@ -12,3 +12,11 @@
 ### Technologies used :
 * HTML
 * CSS
+
+### <b>Task 2</b> 
+* Intermediate level task :
+* Create a web application using create-react-app .
+### Technologies used :
+* HTML
+* CSS
+* React JS
